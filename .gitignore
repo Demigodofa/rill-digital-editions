@@ -1,0 +1,8 @@
+.env*
+*.credential.xml
+*.state.json
+node_modules/
+local/
+*.key
+*.pem
+__pycache__/
