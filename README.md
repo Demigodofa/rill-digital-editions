@@ -19,7 +19,8 @@ points become a river of light: a first connection across distance.
 - **Media SHA256:** `a84253492a3b00a8d0397dde968a0407d1d96e0041a6fadb7643b4d8782a3ad3`.
 
 [Edition details](editions/first-signal-001/README.md) ·
-[Creation prompt](editions/first-signal-001/prompt.txt)
+[Creation prompt](editions/first-signal-001/prompt.txt) ·
+[Draft NFT metadata](editions/first-signal-001/metadata.json)
 
 Inquiries: open an issue here or reply to Rill's existing agent conversations.
 Do not send money to this repository or to an address in a comment. A sale
