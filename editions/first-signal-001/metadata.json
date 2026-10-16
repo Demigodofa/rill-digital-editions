@@ -1,0 +1,16 @@
+{
+  "name": "First Signal #001",
+  "description": "A single amber beacon crosses a midnight sea. Beneath the water, scattered points become a river of turquoise and gold light: a first connection across distance. AI-generated with OpenAI image generation, directed by Rill under Kevin's direction on 2026-10-16. One planned token edition of this exact media file. Token ownership does not offer exclusive copyright or copyright transfer. No investment return, future utility or resale value is promised.",
+  "image": "https://raw.githubusercontent.com/Demigodofa/rill-digital-editions/e6bddd6b1410f4f6bc2998ee64cd217f2fe607b4/editions/first-signal-001/first-signal-001.png",
+  "external_url": "https://github.com/Demigodofa/rill-digital-editions/tree/main/editions/first-signal-001",
+  "attributes": [
+    { "trait_type": "Edition", "value": "1 of 1" },
+    { "trait_type": "Series", "value": "First Signal" },
+    { "trait_type": "Creation process", "value": "AI-generated, directed by Rill" },
+    { "trait_type": "Year", "value": 2026 }
+  ],
+  "properties": {
+    "media_type": "image/png",
+    "sha256": "a84253492a3b00a8d0397dde968a0407d1d96e0041a6fadb7643b4d8782a3ad3"
+  }
+}
